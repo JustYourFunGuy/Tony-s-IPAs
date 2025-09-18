@@ -1,2 +1,2 @@
-# Tony-s-IPAs
+# TonysIPAs
 just a collection of ipas
