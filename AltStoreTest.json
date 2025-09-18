@@ -1,0 +1,94 @@
+{
+  "name": "AltStoreTest",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/xxKw4AT.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.WindySkyStudio.WindySky-sJourney",
+    "com.JourneyInTheSkyDLFM",
+    "com.porygonaxolotl.rollingskyport",
+    "FANGO"
+  ],
+  "apps": [
+    {
+      "name": "RollingSkyPort",
+      "bundleIdentifier": "com.porygonaxolotl.rollingskyport",
+      "marketplaceID": "",
+      "developerName": "PoryhonAxolotl",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/EJP3Z6F.png",
+      "tintColor": "#e467d7",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ThroughTheWind",
+      "bundleIdentifier": "FANGO",
+      "marketplaceID": "",
+      "developerName": "Fango",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/2fcY1Vb.png",
+      "tintColor": "#0e59f0",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "Microphone"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "JourneyInTheSky",
+      "bundleIdentifier": "com.JourneyInTheSkyDLFM",
+      "marketplaceID": "",
+      "developerName": "JITS Studio",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/zB4sslC.png",
+      "tintColor": "#648ccc",
+      "category": "games",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMicrophoneUsageDescription": "use microphone"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "WindySkysJourney",
+      "bundleIdentifier": "com.WindySkyStudio.WindySky-sJourney",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cFfFGJw.png",
+      "tintColor": "#5173ad",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
